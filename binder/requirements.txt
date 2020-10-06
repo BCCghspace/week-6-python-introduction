@@ -1,0 +1,9 @@
+psycopg2-binary
+sqlalchemy
+geopandas
+google-cloud-bigquery[pandas]
+cartoframes
+nb-black
+matplotlib
+rtree
+seaborn
