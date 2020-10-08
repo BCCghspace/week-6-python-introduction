@@ -6,10 +6,10 @@ dependencies:
   - geopandas
   - pandas
   - rtree
-  - psycopg2-binary
+  - psycopg2
   - sqlalchemy
   - seaborn
-  - nb-black
   - google-cloud-bigquery[pandas]
   - pip:
     - cartoframes
+    - nb-black
