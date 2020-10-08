@@ -69,10 +69,11 @@ For our class today, there's a file in the repo called [`environment.yml`](https
 4. Check that the environment is listed: `conda env list`
 5. Activate the environment. This means you enter the environment so you can use Python with the packages you installed.
     * Run this command: `conda activate musa509week6`
+6. Download this file to the repository directory: <https://canvas.upenn.edu/courses/1533813/files/89414280/download?download_frd=1>. This file contains credentials for using the database for class.
 
 ## Python REPL
 
-Let's look at the `python` command.
+Let's look at the `python` command in the terminal.
 
 ## Running a Jupyter server to view Lab Notebook
 
@@ -82,7 +83,12 @@ One of the packages installed is `jupyterlab`, which gives you a Jupyter Noteboo
 jupyter lab
 ```
 
+A browser tab should pop up!
+
 Note: this will only work if you activated your conda environment.
+
+
+Once you finish with Jupyter, you can close the session with File -> Shut Down.
 
 
 ## Don't forget to deactivate the environment!

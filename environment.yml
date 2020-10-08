@@ -3,7 +3,6 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - geopandas
   - pandas
   - rtree
   - psycopg2
@@ -12,6 +11,8 @@ dependencies:
   - pip
   - jupyterlab
   - pip:
+    - GeoAlchemy2
+    - geopandas
     - cartoframes
     - google-cloud-bigquery[pandas]
     - nb-black
