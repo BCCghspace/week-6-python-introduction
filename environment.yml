@@ -9,7 +9,9 @@ dependencies:
   - psycopg2
   - sqlalchemy
   - seaborn
-  - google-cloud-bigquery[pandas]
+  - pip
+  - jupyterlab
   - pip:
     - cartoframes
+    - google-cloud-bigquery[pandas]
     - nb-black

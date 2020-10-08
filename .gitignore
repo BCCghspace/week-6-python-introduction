@@ -1,0 +1,4 @@
+# ignore credentials files
+MUSA-509-*.json
+carto-credentials.json
+pg-credentials.json
