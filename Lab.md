@@ -71,7 +71,7 @@ For our class today, there's a file in the repo called [`environment.yml`](https
 4. Check that the environment is listed: `conda env list`
 5. Activate the environment. This means you enter the environment so you can use Python with the packages you installed.
     * Run this command: `conda activate musa509week6`
-6. Download this file to the repository directory: <https://canvas.upenn.edu/courses/1533813/files/89414280/download?download_frd=1>. This file contains credentials for using the database for class.
+6. Download this file to the repository directory: <https://canvas.upenn.edu/courses/1533813/files/89441777/download?download_frd=1>. This file contains credentials for using the database for class.
 
 ## Python REPL
 
