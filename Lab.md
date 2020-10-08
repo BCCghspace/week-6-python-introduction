@@ -42,11 +42,13 @@ dependencies:
 
 1. [Download the Miniconda distribution](https://docs.conda.io/en/latest/miniconda.html) for your operating system
 2. Install Miniconda
+  - [Windows instructions](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html#installing-on-windows)
 3. Open your computer terminal
     * Mac
       - Use the native Terminal app
       - [iTerm2](https://www.iterm2.com/) which is what I like
     * Windows
+      - Command Prompt
       - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
     * Linux - if you're using Linux you probably already know what you like
 4. Run `conda --version` to check that everything installed correctly. You should get a response like `conda 4.8.5`
@@ -89,6 +91,12 @@ Note: this will only work if you activated your conda environment.
 
 
 Once you finish with Jupyter, you can close the session with File -> Shut Down.
+
+
+## PostGIS Database in AWS
+
+* Show AWS RDS console
+* Show connection to database with PgAdmin4
 
 
 ## Don't forget to deactivate the environment!
